@@ -1,0 +1,104 @@
+{
+    "Person": [
+        "person"
+    ],
+    "Vehicle": [
+        "bicycle",
+        "car",
+        "motorcycle",
+        "airplane",
+        "bus",
+        "train",
+        "truck",
+        "boat"
+    ],
+    "Traffic Sign": [
+        "traffic light",
+        "stop sign",
+        "fire hydrant",
+        "parking meter"
+    ],
+    "Home": [
+        "bench",
+        "chair",
+        "couch",
+        "bed",
+        "dining table",
+        "toilet",
+        "microwave",
+        "oven",
+        "refrigerator",
+        "sink",
+        "toaster",
+        "potted plant",
+        "clock",
+        "vase"
+    ],
+    "Animals": [
+        "bird",
+        "cat",
+        "dog",
+        "horse",
+        "sheep",
+        "cow",
+        "elephant",
+        "bear",
+        "zebra",
+        "giraffe"
+    ],
+    "Food": [
+        "banana",
+        "apple",
+        "sandwich",
+        "orange",
+        "broccoli",
+        "carrot",
+        "hot dog",
+        "pizza",
+        "donut",
+        "cake"
+    ],
+    "Accessories": [
+        "backpack",
+        "handbag",
+        "umbrella",
+        "tie",
+        "suitcase"
+    ],
+    "Sports": [
+        "frisbee",
+        "skis",
+        "snowboard",
+        "sports ball",
+        "kite",
+        "baseball bat",
+        "baseball glove",
+        "skateboard",
+        "surfboard",
+        "tennis racket"
+    ],
+    "Kitchen": [
+        "bottle",
+        "wine glass",
+        "cup",
+        "fork",
+        "knife",
+        "spoon",
+        "bowl"
+    ],
+    "Electronics": [
+        "tv",
+        "laptop",
+        "mouse",
+        "remote",
+        "keyboard",
+        "cell phone"
+    ],
+    "Tools & Other": [
+        "scissors",
+        "book",
+        "teddy bear",
+        "hair drier",
+        "toothbrush"
+    ]
+}
